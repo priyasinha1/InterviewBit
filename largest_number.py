@@ -1,5 +1,4 @@
 from functools import cmp_to_key
-
 class Solution:
 	# @param A : tuple of integers
 	# @return a strings
