@@ -1,2 +1,2 @@
 # InterviewBit
-Coding interview questions coded in Python.
+Coding interview questions coded in Python
